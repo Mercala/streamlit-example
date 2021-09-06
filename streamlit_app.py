@@ -1,8 +1,6 @@
 #!/usr/bin/env python3.8
 # coding: utf-8
 
-pip install fuzzywuzzy
-
 from fuzzywuzzy import fuzz, process, utils
 import pandas as pd
 import numpy as np
