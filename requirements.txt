@@ -1,4 +1,4 @@
 altair
 pandas
 streamlit
-fuzzywuzzy
+fuzzywuzzy==0.18.0
