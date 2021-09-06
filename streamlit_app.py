@@ -1,8 +1,3 @@
-from fuzzywuzzy import fuzz, process, utils
-import pandas as pd
-import re
-import streamlit as st
-
 #!/usr/bin/env python3.8
 # coding: utf-8
 
@@ -10,6 +5,7 @@ from fuzzywuzzy import fuzz, process, utils
 import pandas as pd
 import numpy as np
 import re
+import streamlit as st
 
 
 def shortest_distance(latlng):
